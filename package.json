@@ -1,0 +1,17 @@
+{
+  "name": "dummy-assignment",
+  "version": "1.0.0",
+  "description": "A node assignment.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "author": "Yashjeet Luthra",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
